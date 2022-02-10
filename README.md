@@ -1,5 +1,3 @@
-# react-redux-toolkit-crash-course-2022
-React Redux Toolkit Crash Course 2022
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
